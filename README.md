@@ -4,7 +4,7 @@ Motion Sensor Board
 Wireless motion sensor board that interfaces with parallax PIR sensor.
 Board uses the Attiny2313A microcontroller. wireless capability provided by Xbee Pro Series 2 module.
 
-Microcontroller portion of circuit verified on 2/15/14
+Current version of motion sensor board verified on 9/28/14
 
 Files:
 
