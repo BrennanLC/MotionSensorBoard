@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -4879,7 +4879,7 @@ High-power, low thermal resistance package.</description>
 <text x="187.96" y="7.62" size="2.54" layer="91">Motion Sensor Board</text>
 <text x="243.84" y="10.16" size="2.54" layer="91">A</text>
 <text x="243.84" y="2.54" size="2.54" layer="91">1 of 1</text>
-<text x="109.22" y="5.08" size="1.778" layer="91">B. Carrizales</text>
+<text x="99.06" y="5.08" size="1.778" layer="91">B. Carrizales</text>
 <wire x1="-20.32" y1="114.3" x2="50.8" y2="114.3" width="0.1524" layer="94"/>
 <wire x1="50.8" y1="114.3" x2="50.8" y2="66.04" width="0.1524" layer="94"/>
 <wire x1="50.8" y1="66.04" x2="-20.32" y2="66.04" width="0.1524" layer="94"/>
@@ -4922,7 +4922,7 @@ High-power, low thermal resistance package.</description>
 <instance part="GND8" gate="1" x="-7.62" y="165.1"/>
 <instance part="JP1" gate="G$1" x="91.44" y="25.4" rot="R180"/>
 <instance part="GND9" gate="1" x="185.42" y="124.46"/>
-<instance part="CC_TEXT1" gate="G$1" x="96.52" y="5.08"/>
+<instance part="CC_TEXT1" gate="G$1" x="86.36" y="5.08"/>
 <instance part="STANDOFF1" gate="G$1" x="-10.16" y="50.8"/>
 <instance part="STANDOFF2" gate="G$1" x="-10.16" y="45.72"/>
 <instance part="STANDOFF3" gate="G$1" x="-10.16" y="40.64"/>
